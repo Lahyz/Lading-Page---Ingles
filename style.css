@@ -118,7 +118,7 @@ font-size: 20px;
 
     .fundo {
         width: auto; 
-        opacity: 0.2;                  
+        opacity: 0.4;                  
        pointer-events: none;  
        left: -40%;
        top: 50px;
