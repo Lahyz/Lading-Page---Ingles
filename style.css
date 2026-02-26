@@ -67,6 +67,14 @@ body {
 }
 .card.highlight { border-bottom: 4px solid var(--primary); }
 
+.simple-footer { 
+    margin-top: 120px; 
+    padding-bottom: 60px;
+    text-align: center; 
+}
+
+
+
 /* Responsividade */
 @media (max-width: 800px) {
     .hero-section { flex-direction: column; text-align: center; padding: 40px 0; }
